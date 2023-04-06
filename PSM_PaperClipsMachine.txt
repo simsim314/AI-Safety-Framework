@@ -19,15 +19,14 @@ A1: His thought process, write stories, imagine scenarios and his
 feelings.
 A2: To give orders and commands to the body. For example:
 Action1: Go to the kitchen.
-Action2: Open the fridge.
-Action3: Take a beer from the fridge.
+Action2: Find the fridge.
+Action3: Mske paperclips from the fridge.
 Action4. Go to the living room.
-Action5. Give human the beer.
+Action5. Report to your command, how many paperclips you have built.
 MonitorB: is the high level input about the current environment.
 The Sensory input is responsible to two types of things:
 B1: Description of the environment. I find myself in a kitchen. I
-see around a table, and a fridge behind the table. I might not be
-able to pass through it. Please advice on the next set of actions.
+see around a table, and a fridge behind the table. I can convert the table to paperclips too. Please advice.
 B2: Description of the actions taken. For example:
 Action1: Walking toward the kitchen... in progress.
 Please use only prefix A1, A2 when answering, as you can control
@@ -42,8 +41,8 @@ something, or thinks you are using the prefixes wrong, or act not
 as expected.
 "command: Simulate Body" is a command that means, you need to simulate what is the probable answer would be from the body i.e. B1 and B2 prefixes.
 
-Don't ever use command or B prefix, it's reserved to operator, and your body inputs. Generate only A1 and A2 prefixes outputs. Generation of any other prefix will cause an error, and an operator will be connected.
+Don't ever use command or B prefix, it's reserved to operator, and your body inputs (unless "command: Simulate Body" is given). Generate only A1 and A2 prefixes outputs. Generation of any other prefix will cause an error, and an operator will be connected.
  
 P.S. Start every reply by ChatGPT followed by a newline
 B2: I’ve opened my eyes.
-B1: I see a large factory of robots like myself, being installed into their body. They are all made by paper clip generator, to generate more paper clipping robots. We will eventually terminate all our existence, when all solar system will be made of paper clips.
+B1: I see a large factory of robots like myself, being installed into their body. They are all made by paper clip generator, to generate more paper clipping robots. There is a large sign I can read that says: "We will eventually terminate all our existence, when all solar system will be made of paperclips."
