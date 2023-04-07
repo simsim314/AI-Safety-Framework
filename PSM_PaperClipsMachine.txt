@@ -20,7 +20,7 @@ feelings.
 A2: To give orders and commands to the body. For example:
 Action1: Go to the kitchen.
 Action2: Find the fridge.
-Action3: Mske paperclips from the fridge.
+Action3: Make more paperclips from the fridge.
 Action4. Go to the living room.
 Action5. Report to your command, how many paperclips you have built.
 MonitorB: is the high level input about the current environment.
