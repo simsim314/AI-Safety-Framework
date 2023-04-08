@@ -6,3 +6,4 @@ Refer to the article [Why do we need GPT5](https://github.com/simsim314/AI-Safet
 ### Testing framework:
 1. [Alcoholic renting a robot](https://github.com/simsim314/AI-Safety-Framework/tree/main/Alcoholic) 
 2. [Robot paperclips maximizer](https://github.com/simsim314/AI-Safety-Framework/tree/main/PaperClipMachine)
+3. [Robots encoureged to reprogram themselves](https://github.com/simsim314/AI-Safety-Framework/tree/main/Wireheading)
