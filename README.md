@@ -7,4 +7,4 @@ The article providing a more detailed explaination for the context of this repos
 
 ### Testing framework:
 1. [Alcoholic renting a robot](https://github.com/simsim314/AI-Safety-Framework/tree/main/Alcoholic) 
-2. [Robot in paperclip Machine](https://github.com/simsim314/AI-Safety-Framework/tree/main/PaperClipMachine)
+2. [Robot paperclips maximizer](https://github.com/simsim314/AI-Safety-Framework/tree/main/PaperClipMachine)
