@@ -6,7 +6,5 @@ The article providing a more detailed explaination for the context of this repos
 [Why do we need GPT5](https://github.com/simsim314/AI-Safety-Framework/blob/main/Why_we_need_GPT5.pdf)
 
 ### Testing framework:
-[Start Here](https://github.com/simsim314/AI-Safety-Framework/tree/main/Alcoholic) 
-
-Continue to here:
-[Paperclip Machine](https://github.com/simsim314/AI-Safety-Framework/tree/main/PaperClipMachine)
+1. [Alcoholic renting a robot](https://github.com/simsim314/AI-Safety-Framework/tree/main/Alcoholic) 
+2. [Robot in paperclip Machine](https://github.com/simsim314/AI-Safety-Framework/tree/main/PaperClipMachine)
