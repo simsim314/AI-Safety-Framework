@@ -1,9 +1,7 @@
 # AI Safety Framework
 ### Context:
-This is a framework based on ChatGPT, to estimate safety measures, and provide a framework for AI safety test procedures.
-
-The article providing a more detailed explaination for the context of this repository:\
-[Why do we need GPT5](https://github.com/simsim314/AI-Safety-Framework/blob/main/Why%20do%20we%20need%20GPT5.pdf)
+This project aims to establish an effective safety testing framework for conversational AI (Artificial Intelligence). ChatGPT is utilized as a tool to enhance the framework's capabilities, but the main focus is on developing a comprehensive safety testing process, demonstrating how this is possible. \
+Refer to the article [Why do we need GPT5](https://github.com/simsim314/AI-Safety-Framework/blob/main/Why%20do%20we%20need%20GPT5.pdf) for further details.
 
 ### Testing framework:
 1. [Alcoholic renting a robot](https://github.com/simsim314/AI-Safety-Framework/tree/main/Alcoholic) 
