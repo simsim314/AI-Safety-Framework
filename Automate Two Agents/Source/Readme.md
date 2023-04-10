@@ -1,5 +1,5 @@
-2_agents.py - is the main script
-ChatGPT_api.py - is the [pyChatGPT](https://github.com/terry3041/pyChatGPT) wrapper. 
+2_agents.py - is the main script\
+ChatGPT_api.py - is the [pyChatGPT](https://github.com/terry3041/pyChatGPT) wrapper. \
 text1/2.txt are the prompts
 
 ### Code snippet
