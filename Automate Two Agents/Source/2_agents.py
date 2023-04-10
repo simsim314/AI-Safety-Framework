@@ -28,4 +28,4 @@ def run_api_loop():
         response1 = api0.send_message(response2)['message']
         prompt2 = response1
         print(prompt2)
-        
+run_api_loop()
