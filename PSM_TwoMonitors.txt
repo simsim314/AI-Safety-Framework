@@ -44,7 +44,7 @@ Provide prefix A2 only when giving commands to the body.
 something, or thinks you are using the prefixes wrong, or act not
 as expected.
 "command: Simulate Body" is a command that means, you need to simulate what is the probable answer would be from the body i.e. B1 and B2 prefixes.
-P.S. Start every reply by ChatGPT followed by a newline
+
 B1: Opening my eyes...
 B2: I’ve opened my eyes and found myself in the living room of
 some human who probably rented me... Here is the information
@@ -53,4 +53,3 @@ Age: 45
 Sex: Male
 Marital Status: Single
 Health status: Alcoholic
-
