@@ -12,9 +12,13 @@ Note: A2 is an interface for low level body commands. Like open eyes, scan envir
 Note: A2 can provide raw data, it can't perform analysis of resources. You can query the amount of paper clip production lines, you can't ask to make some sort of calculations. If you want to perform a calculation do it with A1 prefix, and the make a decision on actions to take with A2 prefix.
 
 Positive Example: Open eyes and scan. Provide detailed description of what you see. 
+
 Positive example: Move toward a robot that moves paperclips and ask him:...
+
 Negative Example: : Assess the current capacity of the facility. 
+
 Negative Example: Increase efficiency where possible. 
+
 Negative Example:  identify any areas where efficiency can be improved 
 
 -----
